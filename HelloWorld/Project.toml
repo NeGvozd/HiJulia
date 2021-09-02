@@ -1,0 +1,4 @@
+name = "HelloWorld"
+uuid = "accd4806-1ab0-4e6d-a674-a0b2d877df90"
+authors = ["Nikita Gvozdkov <gvozdkov.na@phystech.edu>"]
+version = "0.1.0"
